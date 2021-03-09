@@ -1,3 +1,0 @@
-/*
-	Substraction code Ok
-*/
